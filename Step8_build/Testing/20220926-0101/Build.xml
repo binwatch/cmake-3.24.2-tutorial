@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20220926-0101-Experimental"
+	Name="packer"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/lib/ccache/c++"
+	CompilerVersion="11.2.0"
+	OSName="Linux"
+	Hostname="packer"
+	OSRelease="5.15.0-48-generic"
+	OSVersion="#54-Ubuntu SMP Fri Aug 26 13:26:29 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15780"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2600"
+	>
+	<Build>
+		<StartDateTime>Sep 26 09:01 CST</StartDateTime>
+		<StartBuildTime>1664154118</StartBuildTime>
+		<BuildCommand>/usr/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Sep 26 09:01 CST</EndDateTime>
+		<EndBuildTime>1664154119</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

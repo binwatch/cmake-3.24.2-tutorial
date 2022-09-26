@@ -1,0 +1,4 @@
+/home/myuser/installdir/bin/Tutorial
+/home/myuser/installdir/include/TutorialConfig.h
+/home/myuser/installdir/lib/libMathFunctions.a
+/home/myuser/installdir/include/MathFunctions.h

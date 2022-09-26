@@ -1,0 +1,3 @@
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir

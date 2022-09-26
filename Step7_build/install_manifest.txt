@@ -1,0 +1,4 @@
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step7_build/_CPack_Packages/Linux/ZIP/Tutorial-1.0-Linux/bin/Tutorial
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step7_build/_CPack_Packages/Linux/ZIP/Tutorial-1.0-Linux/include/TutorialConfig.h
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step7_build/_CPack_Packages/Linux/ZIP/Tutorial-1.0-Linux/lib/libMathFunctions.a
+/home/xyu/Downloads/cmake-3.24.2-tutorial-source/Step7_build/_CPack_Packages/Linux/ZIP/Tutorial-1.0-Linux/include/MathFunctions.h
